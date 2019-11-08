@@ -1,0 +1,186 @@
+*
+{
+	margin:0;
+}
+.container
+{
+	background:rgb(15,109,57);
+	width: 100%;
+	height: 150px;
+	display: flex;
+}
+.start
+{
+	width: 80%;
+	height: 100%;
+}
+.name
+{
+	width:20%;
+	height:100%;
+}
+.start p
+{
+	font-size: 70px;
+	color: white;
+	font-family:calibri;
+	padding: 20px;
+}
+.name p
+{
+	font-size: 20px;
+	color: white;
+	font-family:calibri;
+	padding: 30px;
+}
+.row1
+{
+	width: 100%;
+	height: 175px;
+	background: rgba(15,109,57);
+	display: flex;
+}
+.home
+{
+	width:25%;
+	height: 90%;
+	margin-left: 8px;
+}
+.home img
+{
+	width: 95%;
+	height: 100%;
+
+}
+.setting
+{
+	width:24%;
+	height: 90%;
+}
+.setting img
+{
+	width: 100%;
+	height: 100%;
+}
+.chrome
+{
+	width:23%;
+	height: 90%;
+	margin-left: 8px;
+}
+.chrome img
+{
+	width: 100%;
+	height: 100%;
+}
+.space
+{
+	width: 2%;
+	height: 90%;
+}
+.skype
+{
+	width: 23%;
+	height: 90%;
+	margin-left: 8px;
+}
+.skype img
+{
+	width: 100%;
+	height: 100%;
+}
+.row2
+{
+	width: 100%;
+	height: 175px;
+	background: rgba(15,109,57);
+	display: flex;
+}
+.mail
+{
+	width:23%;
+	height: 90%;
+	margin-left: 8px;
+}
+.mail img
+{
+	width: 100%;
+	height: 100%;
+}
+.drive
+{
+	width: 20%;
+	height: 90%;
+	margin-left: 8px;
+}
+.drive img
+{
+	width: 100%;
+	height: 100%;
+}
+.vlc
+{
+	width: 18%;
+	height: 90%;
+	margin-left: 12px;
+}
+.vlc img
+{
+	height: 100%;
+	width: 100%;
+}
+.paint
+{
+	width: 20%;
+	height: 90%;
+}
+.paint img
+{
+	height: 100%;
+	width: 100%;
+}
+.row3
+{
+	width: 100%;
+	display: flex;
+	height: 175px;
+	background: rgb(15,109,57);
+}
+.space1
+{
+	width: 20%;
+	height: 90%;
+}
+.music
+{
+	height: 90%;
+	width: 20%;
+}
+.music img
+{
+	height: 100%;
+	width: 100%;
+
+}
+.outlook
+{
+	height: 90%;
+	width: 20%;
+	margin-left: 10px;
+}
+.outlook img
+{
+	height: 100%;
+	width: 100%;
+}
+.netflix
+{
+	height: 90%;
+	margin-left: 15px;
+	width: 20%;
+}
+.netflix img
+{
+	height: 100%;
+	width: 100%;
+}
