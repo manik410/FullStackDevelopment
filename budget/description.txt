@@ -1,0 +1,2 @@
+A Budget website user interface has been created where the user can submit his budget and the expenses and the balance can be calculated
+along with the listing of the items on which he has spent money.
